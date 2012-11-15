@@ -1,0 +1,27 @@
+
+#accordion {
+position: relative;
+top: 40em;
+width: 50%;
+}
+
+
+
+
+h1{
+font-size:300%;
+float:right;
+position: fixed;
+top: 1.5em;
+right: 15em;
+font-family: arial;
+
+}
+
+
+.ui-corner-all{
+
+
+width:500px;
+float: left;
+}
