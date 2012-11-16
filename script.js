@@ -303,7 +303,8 @@ $(function() {
 	
 function draw(graphid,graphcolor){
 	if(!graphcolor) {
-		graphcolor='rgba(  255, 155, 0, 0.7)';
+		//graphcolor='rgba(  255, 155, 0, 0.7)';
+		graphcolor='rgba(  0, 205, 0, 0.7)';
 		}
   var canvas = document.getElementById(graphid);
   if (canvas.getContext){
