@@ -433,6 +433,9 @@ $(document).ready(function(){
 	//console.log(compareMaxObj);
 
 	$("#generateGraphButton").button();
+	$("#comparetomaxbutton").button();
+	$("#comparetominbutton").button();
+	$("#comparetoavgbutton").button();
 	$("#generateGraphButton").click(function() {
 		allData = createNormalizedArrayFromSection();
 		draw('insurance');

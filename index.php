@@ -5,9 +5,11 @@
 <title>Eployee Benefit Analysis Tool</title>
 		<link type="text/css" href="jqueryui/css/ui-lightness/jquery-ui-1.8.23.custom.css" rel="stylesheet" />
 		<link type="text/css" href="style.css" rel="stylesheet" />
-<script type = "text/javascript" src="http://code.jquery.com/jquery-1.8.1.min.js" ></script>
+		<script type = "text/javascript" src="http://code.jquery.com/jquery-1.8.1.min.js" ></script>
 		<script type="text/javascript" src="jqueryui/js/jquery-ui-1.8.23.custom.min.js"></script>
+		<script type = "text/javascript" src="script.js"></script>
 </head>
+
 
 
 
@@ -162,7 +164,7 @@ clear: both;">}</div>
 	
 </div>
 
-<script type = "text/javascript" src="script.js"></script>
+
 
 </body>
 
