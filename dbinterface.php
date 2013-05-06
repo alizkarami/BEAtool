@@ -1,9 +1,9 @@
 <?php
 
 $host        =    "localhost";
-$user        =    "root";
-$pass        =    "letmein797";
-$databasename    =    "principal";
+$user        =    "user";
+$pass        =    "password";
+$databasename    =    "dbName";
 
 $connection = mysql_connect($host,$user,$pass) ;
 if (!$connection) {
